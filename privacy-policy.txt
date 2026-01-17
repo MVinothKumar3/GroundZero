@@ -1,0 +1,103 @@
+Privacy Policy for Ground Zero
+
+Effective Date: 01/16/2026
+
+Ground Zero (“we”, “our”, or “us”) operates the Ground Zero mobile game (the “App”). This Privacy Policy explains how we collect, use, and protect information when you use our App.
+
+1. Information We Collect
+1.1 Personal Information
+
+We do not collect any personally identifiable information such as name, email address, phone number, or location directly from users.
+
+1.2 Automatically Collected Information
+
+The App may collect certain information automatically, including:
+
+Device information (device model, OS version)
+
+App usage data
+
+IP address (used for ad serving and analytics)
+
+Advertising ID (Google Advertising ID)
+
+2. Advertising (Google AdMob)
+
+Ground Zero uses Google AdMob to display advertisements.
+
+AdMob may collect and use data such as:
+
+Advertising ID
+
+Device information
+
+Interaction with ads
+
+This data is used to:
+
+Show relevant ads
+
+Measure ad performance
+
+Improve ad experience
+
+🔗 Google’s Privacy Policy:
+https://policies.google.com/privacy
+
+3. Cookies and Tracking Technologies
+
+Third-party ad services may use:
+
+Cookies
+
+SDKs
+
+Similar tracking technologies
+
+These are used to personalize ads and analyze performance.
+
+4. Children’s Information
+
+Ground Zero does not knowingly collect personal information from children under the age of 13.
+
+If you believe your child has provided personal information, please contact us and we will promptly remove such data.
+
+5. Data Sharing
+
+We do not sell, trade, or rent users’ personal data.
+
+Data may be shared with trusted third-party services solely for:
+
+Advertising
+
+Analytics
+
+App functionality
+
+6. User Consent
+
+By using Ground Zero, you consent to this Privacy Policy and agree to its terms.
+
+For users in the EEA (Europe), consent for personalized ads may be requested in accordance with GDPR.
+
+7. Data Security
+
+We take reasonable measures to protect information collected by the App. However, no method of transmission over the internet is 100% secure.
+
+8. Third-Party Services
+
+The App may contain links to third-party services. We are not responsible for their privacy practices.
+
+9. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted on this page.
+
+You are advised to review this page periodically.
+
+10. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us:
+
+📧 Email: mkumartpgit@gmail.com
+
+🌐 Developer: Ground Zero Team

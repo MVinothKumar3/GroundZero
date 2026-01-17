@@ -1,0 +1,12 @@
+Classic Block Puzzle - Free & Open Source
+Stack falling blocks to clear lines in this timeless puzzle game! Arrange geometric shapes as they drop from the top of the screen to create complete horizontal rows, which will disappear and score you points.
+Key Features:
+
+Simple, addictive gameplay that's easy to learn but challenging to master
+Smooth controls and responsive touch interface
+Increasing speed as you progress keeps you on your toes
+Classic arcade-style scoring system
+
+Free and Open Source Software (FOSS)
+This game is completely free with no ads, no in-app purchases, and no hidden costs. The source code is publicly available, meaning the community can inspect, modify, and improve the game. Your privacy is protected - no data collection, no tracking.
+Perfect for quick gaming sessions or longer play when you want to beat your high score. Test your reflexes and spatial reasoning in this beloved block-stacking puzzle format.Retry
